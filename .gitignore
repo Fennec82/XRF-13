@@ -8,7 +8,6 @@ Thumbs.db
 *.backup
 *.dmm.before
 *.cache
-data/
 cfg/
 tmp/
 tools/Runtime Condenser/Input.txt
@@ -30,7 +29,6 @@ tgmc.mdme
 /*.so
 
 #ignore any files in config/, except those in subdirectories.
-/config/*
 !config/**/*/
 
 #extra map stuff
